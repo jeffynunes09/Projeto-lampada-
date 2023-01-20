@@ -17,7 +17,7 @@ const lamp1 = document.getElementById("lamp1");
 
 
 function isLampBroken() {
-    return lamp1.src.indeOf('quebrada') > -1
+    return lamp1.src.indexOf('quebrada') > -1
 }
 
 
