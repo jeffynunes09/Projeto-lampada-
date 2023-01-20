@@ -1,0 +1,11 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.botao {
+    margin-top: 50px;
+    height: 30px;
+    width: 70px;
+}
